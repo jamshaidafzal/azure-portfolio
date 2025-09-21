@@ -12,8 +12,9 @@
 3. Assigned Reader & Contributor roles and tested resource creation  
 4. Policy created to enforce tagging on VMs  
 5. Configured Conditional Access → Location filter → Block non-AU  
+<img width="1718" height="1282" alt="screen 1" src="https://github.com/user-attachments/assets/8bb90a4e-c05e-4860-bc59-320a907221a6" />
 
-(Screenshots to be added here)  
+
 
 ## Why It Matters
 - Shows control of **identity and access**  
