@@ -14,8 +14,10 @@
 5. Configured Conditional Access → Location filter → Block non-AU
 ## Azure AD tenant name (overview page)   
 <img width="1718" height="1282" alt="screen 1" src="https://github.com/user-attachments/assets/8bb90a4e-c05e-4860-bc59-320a907221a6" />
+
 ## User list showing the new user
 <img width="1717" height="855" alt="screen 2" src="https://github.com/user-attachments/assets/ef2eac47-9976-4584-9f05-54f8b019a295" />
+
 ## Group list with the user inside
 <img width="1711" height="798" alt="screen 3" src="https://github.com/user-attachments/assets/b8e54e22-f2bc-4d78-bd41-325760b2d8a5" />
 
